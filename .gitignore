@@ -1,0 +1,66 @@
+# Unreal Engine .gitignore
+
+# Build folders
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Visual Studio files
+.vs/
+*.VC.db
+*.VC.opendb
+*.sln
+*.suo
+*.opensdf
+*.sdf
+
+# Rider / JetBrains
+.idea/
+
+# Mac files
+.DS_Store
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+
+# Compiled source
+*.o
+*.obj
+*.exe
+*.dll
+*.lib
+*.app
+
+# Unreal project files to ignore
+*.opensdf
+*.sdf
+
+# Ignore autosaves
+Saved/Autosaves/
+
+# Ignore backup files
+Saved/Backup/
+
+# Ignore crash reports
+Saved/Crashes/
+
+# Ignore cooked content
+Saved/Cooked/
+
+# Ignore staged builds
+Saved/StagedBuilds/
+
+# Ignore shader cache
+DerivedDataCache/
+
+# Ignore local config files
+Saved/Config/WindowsEditor/
+
+# Git LFS (we will track these instead)
+*.uasset filter=lfs diff=lfs merge=lfs -text
+*.umap filter=lfs diff=lfs merge=lfs -text
