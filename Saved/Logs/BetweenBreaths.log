@@ -5771,3 +5771,11 @@ FPackageName: Skipped package /Game/_GENERATED/dalto/Box_6E3B2620 has a valid, m
 [2026.04.20-02.50.08:522][508]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8367.614258
 [2026.04.20-02.50.09:522][511]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.04.20-02.50.09:522][511]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8368.280273, Update Interval: 356.035645
+[2026.04.20-02.52.32:698][940]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2026.04.20-02.52.32:703][940]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BetweenBreathsProjectBASE' took 0.054
+[2026.04.20-02.52.32:704][940]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sign] ([2] browsable assets)...
+[2026.04.20-02.52.32:704][940]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sign]
+[2026.04.20-02.52.32:704][940]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sign" FILE="../../../../../../Users/dalto/OneDrive/Documents/Unreal Projects/BetweenBreaths/Saved/Autosaves/Game/Sign_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2026.04.20-02.52.32:725][940]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sign_Auto6
+[2026.04.20-02.52.32:725][940]LogSavePackage: Moving '../../../../../../Users/dalto/OneDrive/Documents/Unreal Projects/BetweenBreaths/Saved/Sign_Auto65194FBC44933300A9004D1BDA5DAC085.tmp' to '../../../../../../Users/dalto/OneDrive/Documents/Unreal Projects/BetweenBreaths/Saved/Autosaves/Game/Sign_Auto6.uasset'
+[2026.04.20-02.52.32:727][940]LogFileHelpers: Auto-saving content packages took 0.023
