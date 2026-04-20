@@ -5768,3 +5768,6 @@ FPackageName: Skipped package /Game/_GENERATED/dalto/Box_6E3B2620 has a valid, m
 [2026.04.20-02.47.13:171][947]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.04.20-02.47.13:171][947]AssetCheck: /Game/BetweenBreathsProjectBASE Validating asset
 [2026.04.20-02.47.13:202][947]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/dalto/OneDrive/Documents/Unreal Projects/BetweenBreaths/Saved/SourceControl/UncontrolledChangelists.json
+[2026.04.20-02.50.08:522][508]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8367.614258
+[2026.04.20-02.50.09:522][511]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.20-02.50.09:522][511]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8368.280273, Update Interval: 356.035645
